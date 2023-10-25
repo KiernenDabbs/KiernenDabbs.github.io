@@ -1,0 +1,162 @@
+/* GENERAL CSS */
+body {
+    background-color: floralwhite;
+}
+
+h1, h2, h3, h4{
+    padding-bottom: .5em;
+}
+
+/* HEADER CSS */
+
+/* NAV CSS */
+nav {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: floralwhite;
+    color: black;
+    padding-bottom: .5em;
+    box-shadow: 0 2px 4px 0 lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav img {
+    width: 50px;
+    height: 50px;
+}
+
+/* MAIN CSS */
+main {
+    margin-top: 1.5em;
+    padding-top: 2.5em;
+    padding: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.row-fancy {
+    box-shadow: 1px -3px 5px 0px gray;
+}
+
+.row-simple{
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 1em;
+}
+
+.row-advanced{
+    border-top: 2px solid #ccc;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    font-size: 125%;
+}
+
+.card{
+    width: 18rem;
+}
+
+.gallerymain{
+    margin-right: 2em;
+    margin-left: 7em;
+}
+
+.text-center{
+    width: 100%;
+}
+
+.card img{
+    width: 260px;
+    height: 200px;
+}
+
+/* JUMBOTRON CSS */
+.jumbotron {
+    width: 100%;
+    background-image: url("/MidtermImages/37371\ AZ-7.jpg");
+    box-shadow: 0 4px 8px 0 lightgrey;
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 525%;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+    background-color: gray;
+    margin-top: .5em;
+    margin-right: 0;
+    padding-top: 1.3em;
+    padding-bottom: 0;
+    padding-left: 2em;
+    padding-right: 1.5em;
+}
+
+.jumbotron2 {
+    width: 100%;
+    background-image: url("/MidtermImages/wood\ blinds\ HD.jpg");
+    box-shadow: 0 4px 8px 0 lightgrey;
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 525%;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+    background-color: gray;
+    margin-top: .5em;
+    margin-right: 0;
+    padding-top: 1.3em;
+    padding-bottom: 0;
+    padding-left: 2em;
+    padding-right: 1.5em;
+}
+
+.jumbotron3 {
+    width: 100%;
+    background-image: url("MidtermImages/Modern Living Room with Foundation 5.jpg");
+    box-shadow: 0 4px 8px 0 lightgrey;
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 525%;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+    background-color: gray;
+    margin-top: .5em;
+    margin-right: 0;
+    padding-top: 1.3em;
+    padding-bottom: 0;
+    padding-left: 2em;
+    padding-right: 1.5em;
+}
+
+
+.firstimage img {
+    max-width: 100%;
+}
+
+.carousel img {
+    height: 70vh;
+}
+
+.carousel {
+    font-size: 125%;
+    text-shadow: 2px 2px 2px black;
+}
+
+/* ASIDE CSS */
+
+/* FOOTER CSS */
+footer {
+    font-size: 125%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: gainsboro;
+    padding: 1.25em;
+    box-shadow: 0px -4px 5px 0px lightgrey;
+}
