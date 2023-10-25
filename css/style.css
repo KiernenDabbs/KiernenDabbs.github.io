@@ -14,10 +14,17 @@ header {
 
 /** MAIN CSS **/
 
+.underline{
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 1em;
+}
+
 main {
   padding-top: 40px;
   padding: 2em;
-  background-color: beige;
+  background-color: white;
+  padding-left: 4em;
+  padding-right: 4em;
 }
 
 .jumbotron {
@@ -34,8 +41,8 @@ main {
   background-size: cover;
   font-size: 150%;
   text-shadow: 2px 2px 2px black;
-  background-color: gray;
-  padding: 0;
+  background-color: beige;
+  padding: 1em;
 }
 
 img .website {
@@ -46,9 +53,10 @@ img .website {
 /** FOOTER CSS **/
 
 footer {
-  background-color: bisque;
-  padding-top: .5em;
-  padding-bottom: 1em;
-  padding-left: 2em;
-  padding-right: 2em;
+  font-size: 150%;
+  background-color: lightgray;
+  padding-top: 1em;
+  padding-bottom: 1.5em;
+  padding-left: 3em;
+  padding-right: 3em;
 }
