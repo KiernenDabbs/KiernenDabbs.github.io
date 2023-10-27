@@ -3,7 +3,10 @@ body {
     background-color: floralwhite;
 }
 
-h1, h2, h3, h4{
+h1,
+h2,
+h3,
+h4 {
     padding-bottom: .5em;
 }
 
@@ -44,32 +47,32 @@ main {
     box-shadow: 1px -3px 5px 0px gray;
 }
 
-.row-simple{
+.row-simple {
     border-bottom: 2px solid #ccc;
     padding-bottom: 1em;
 }
 
-.row-advanced{
+.row-advanced {
     border-top: 2px solid #ccc;
     padding-bottom: 1em;
     padding-top: 1em;
     font-size: 125%;
 }
 
-.card{
+.card {
     width: 18rem;
 }
 
-.gallerymain{
+.gallerymain {
     margin-right: 2em;
     margin-left: 7em;
 }
 
-.text-center{
+.text-center {
     width: 100%;
 }
 
-.card img{
+.card img {
     width: 260px;
     height: 200px;
 }
@@ -135,6 +138,22 @@ main {
     padding-right: 1.5em;
 }
 
+@media screen and (max-width: 900px) {
+    .jumbotron,
+    .jumbotron2,
+    .jumbotron3 {
+        font-size: 400%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .jumbotron,
+    .jumbotron2,
+    .jumbotron3 {
+        padding-top: 3em;
+        font-size: 250%;
+    }  
+}
 
 .firstimage img {
     max-width: 100%;
