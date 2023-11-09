@@ -80,7 +80,7 @@ main {
 /* JUMBOTRON CSS */
 .jumbotron {
     width: 100%;
-    background-image: url("/MidtermImages/37371\ AZ-7.jpg");
+    background-image: url("/MidtermImages/37371\ AZ-21.jpg");
     box-shadow: 0 4px 8px 0 lightgrey;
     height: 50vh;
     background-position: center;
@@ -100,7 +100,7 @@ main {
 
 .jumbotron2 {
     width: 100%;
-    background-image: url("/MidtermImages/wood\ blinds\ HD.jpg");
+    background-image: url("//MidtermImages/37371\ AZ-24.jpg");
     box-shadow: 0 4px 8px 0 lightgrey;
     height: 50vh;
     background-position: center;
