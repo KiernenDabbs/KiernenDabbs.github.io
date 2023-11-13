@@ -80,7 +80,7 @@ main {
 /* JUMBOTRON CSS */
 .jumbotron {
     width: 100%;
-    background-image: url("/MidtermImages/Right-Image-1440-x-1200_SHUTTER.jpg");
+    background-image: url("MidtermImages/Modern Living Room with Foundation 5.jpg");
     box-shadow: 0 4px 8px 0 lightgrey;
     height: 50vh;
     background-position: center;
@@ -100,7 +100,7 @@ main {
 
 .jumbotron2 {
     width: 100%;
-    background-image: url("/MidtermImages/NEOGA_03B_BEDROOM_ANGLED_HALF.jpg");
+    background-image: url("MidtermImages/Modern Living Room with Foundation 5.jpg");
     box-shadow: 0 4px 8px 0 lightgrey;
     height: 50vh;
     background-position: center;
