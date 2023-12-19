@@ -12,6 +12,8 @@ header {
 
 h3{
   text-decoration: underline;
+  border-top: 2px solid #ccc;
+  padding-top: .5em;
 }
 
 .centered{
