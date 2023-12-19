@@ -16,6 +16,11 @@ h3{
   padding-top: .5em;
 }
 
+.noborder{
+  border-top: none;
+  padding-top: 0;
+}
+
 .centered{
   width: 100%;
   text-align: center;
