@@ -10,15 +10,8 @@ header {
   padding-bottom: 60px;
 }
 
-.center1{
+.centered{
   width: 100%;
-  text-align: center;
-  align-items: center;
-  align-content: center;
-}
-
-.center2{
-  width: 75%;
   text-align: center;
   align-items: center;
   align-content: center;
