@@ -10,6 +10,13 @@ header {
   padding-bottom: 60px;
 }
 
+.centered{
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
 /** NAV CSS **/
 
 /** MAIN CSS **/
