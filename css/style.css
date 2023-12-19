@@ -8,6 +8,7 @@ header {
   width: 100%;
   margin-bottom: 30px;
   padding-bottom: 60px;
+  box-shadow: 0 4px 2px -2px gray;
 }
 
 h3{
