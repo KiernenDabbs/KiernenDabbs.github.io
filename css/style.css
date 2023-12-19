@@ -6,8 +6,6 @@ header {
   position: fixed;
   top: -10px;
   width: 100%;
-  margin-bottom: 30px;
-  padding-bottom: 60px;
   box-shadow: 0 4px 2px -2px gray;
 }
 
@@ -47,6 +45,8 @@ main {
 }
 
 .jumbotron {
+  margin-top: 30px;
+  padding-top: 60px;
   display: flex;
   flex-flow: column nowrap;
   text-align: center;
